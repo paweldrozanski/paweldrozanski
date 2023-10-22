@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+"I wish there was a way to know you're in the good old days before you've actually left them." — Andy Bernard
+
+
+
 <!--
 **paweldrozanski/paweldrozanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
