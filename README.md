@@ -2,6 +2,11 @@
 
 "I wish there was a way to know you're in the good old days before you've actually left them." — Andy Bernard
 
+## Stats Available
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=paweldrozanski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=paweldrozanski&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=paweldrozanski&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 
 
 <!--
