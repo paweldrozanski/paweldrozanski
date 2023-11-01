@@ -4,8 +4,6 @@
 
 ## Stats Available
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=paweldrozanski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<!-- <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=paweldrozanski&theme=vue-dark&hide_border=true" alt="GitHub Streak" /> -->
-<img width=400 src="https://streak-stats.demolab.com/?user=paweldrozanski&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=paweldrozanski&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 
